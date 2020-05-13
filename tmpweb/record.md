@@ -5,14 +5,14 @@
 # 建功豪方便 討論記錄
 
 **也面上方有筆 可以進來更改**
-
+cdcd
 ## 討論工具們
-[網站網址](https://ckshcommute.github.io/tmpweb/)
-[討論白板](https://whiteboardfox.com/1745613-3109-6312)
-[google表單](https://forms.gle/UDiNeBk1FT7UqFMF7)
-[google site](https://sites.google.com/d/1N-IXWR3e_7qg6CCXxVegT0aIEVYtbb33/p/10fmLI_VGLCMxUyW0zhaEsmq82rH1BZf1/edit)
-[Github](https://github.com/ckshcommute/ckshcommute.github.io)
-[google雲端](https://drive.google.com/drive/u/0/folders/1ufl8Gs3LS_JJEBkhjRKvCzdEbl_RjarD)
+- [網站網址](https://ckshcommute.github.io/tmpweb/)
+- [討論白板](https://whiteboardfox.com/1745613-3109-6312)
+- [google表單](https://forms.gle/UDiNeBk1FT7UqFMF7)
+- [google site](https://sites.google.com/d/1N-IXWR3e_7qg6CCXxVegT0aIEVYtbb33/p/10fmLI_VGLCMxUyW0zhaEsmq82rH1BZf1/edit)
+- [Github](https://github.com/ckshcommute/ckshcommute.github.io)
+- [google雲端](https://drive.google.com/drive/u/0/folders/1ufl8Gs3LS_JJEBkhjRKvCzdEbl_RjarD)
 
 ---
 
